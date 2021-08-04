@@ -25,7 +25,7 @@ body{
     display: inline-block;
     padding: 0px 20px;
     font-size: 20px;
-    transition: all .3s ease-in;
+    transition: all .2s ease-out;
 }
 
 #menuToggle li:hover{
@@ -122,7 +122,7 @@ body{
         list-style: none;
         transform-origin: 0 0;
         transform: translate(-100%, 0);
-        transition: transform .5s ease;
+        transition: transform 1s cubic-bezier(0.785, 0.135, 0.15, 0.86);
         background-image: url("../img/javascript-trentech_q0ub3d.jpg");
         background-size: cover;
         background-repeat: no-repeat;
