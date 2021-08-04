@@ -58,6 +58,7 @@ body{
         background-color: #00000A;
         background-size: cover;
         background-repeat: no-repeat;
+        background-position-y: 50px;
     }
     
     #menuToggle input{
