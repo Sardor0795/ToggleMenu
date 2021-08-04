@@ -54,11 +54,9 @@ body{
     }
     
     body{
-        background-image: url("../img/20046318_866807033486271_7616227638493250239_n.jpg");
-        background-size: 100vh;
+        background-image: url("../img/897e6a237a18dc647dc203ffbc2ef40d.jpg");
+        background-size: cover;
         background-repeat: no-repeat;
-        background-position-x: -80px;
-        background-position-y: 5px;
     }
     
     #menuToggle input{
