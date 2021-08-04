@@ -5,6 +5,7 @@ body{
     color: #cdcdcd;
     font-family: serif;
     overflow-x: hidden;
+    overflow-y: hidden;
 }
 
 #menuToggle{
