@@ -142,7 +142,7 @@ img{
         background-color: #cdcdcd;
         list-style: none;
         transform-origin: 0 0;
-        transform: translate(-100%, 0);
+        transform: translate(0, 100%);
         transition: transform 1s cubic-bezier(0.785, 0.135, 0.15, 0.86);
         background-image: url("../img/javascript-trentech_q0ub3d.jpg");
         background-size: cover;
